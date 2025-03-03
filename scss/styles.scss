@@ -12,6 +12,10 @@
 .vertical-decoration {
     top: 12%;
     width: 24px;
+    color: #669bbc !important;
+    fill: #669bbc !important;
+    stroke: #669bbc !important;
+
 }
 
 .hr-heading {
@@ -148,3 +152,8 @@
         margin-bottom: 20px;
     }
 }
+
+// svg {
+//     fill: #669bbc;
+//     stroke: #669bbc;
+// }
